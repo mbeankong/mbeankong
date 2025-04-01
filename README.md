@@ -53,6 +53,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeankong)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Gdugboy&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/mbeankong"
+  width="1200"
+  height="300"
+/>
+</a>
+
 <!-- Optional 추가 -->
 <!-- 
 ## 🔗 Links
